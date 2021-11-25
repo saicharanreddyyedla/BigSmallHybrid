@@ -1,0 +1,217 @@
+2021-11-23 12:08:07,867  INFO [main] Webdriver:36 - Driver is Initialized
+ 2021-11-23 12:08:10,740  INFO [main] Webdriver:43 - URL is Opened
+ 2021-11-23 12:08:28,517  INFO [main] Webdriver:75 - The product type is searched
+ 2021-11-23 12:08:30,492  INFO [main] Webdriver:87 - The product is clicked
+ 2021-11-23 12:08:30,794  INFO [main] Webdriver:94 - Product has been Wishlisted
+ 2021-11-23 12:08:35,172  INFO [main] Webdriver:105 - Frequently bought item is selected
+ 2021-11-23 12:08:37,298  INFO [main] Webdriver:108 - And added to cart
+ 2021-11-23 12:44:56,848  INFO [main] Webdriver:35 - Driver is Initialized
+ 2021-11-23 12:45:03,749  INFO [main] Webdriver:42 - URL is Opened
+ 2021-11-23 12:45:30,976  INFO [main] Webdriver:68 - The product type is searched
+ 2021-11-23 12:45:35,031  INFO [main] Webdriver:80 - The product is clicked
+ 2021-11-23 12:45:35,453  INFO [main] Webdriver:87 - Product has been Wishlisted
+ 2021-11-23 12:45:38,757  INFO [main] Webdriver:98 - Frequently bought item is selected
+ 2021-11-23 12:45:42,304  INFO [main] Webdriver:101 - And added to cart
+ 2021-11-23 12:45:59,719  INFO [main] Webdriver:181 - Product is present over there in WishList
+ 2021-11-23 12:50:36,540  INFO [main] Webdriver:35 - Driver is Initialized
+ 2021-11-23 12:50:43,773  INFO [main] Webdriver:42 - URL is Opened
+ 2021-11-23 12:51:06,639  INFO [main] Webdriver:68 - The product type is searched
+ 2021-11-23 12:51:10,738  INFO [main] Webdriver:80 - The product is clicked
+ 2021-11-23 12:51:11,331  INFO [main] Webdriver:87 - Product has been Wishlisted
+ 2021-11-23 12:51:14,512  INFO [main] Webdriver:98 - Frequently bought item is selected
+ 2021-11-23 12:51:18,422  INFO [main] Webdriver:101 - And added to cart
+ 2021-11-23 12:51:36,456  INFO [main] Webdriver:181 - Product is present over there in WishList
+ 2021-11-23 12:58:45,766  INFO [main] Webdriver:36 - Driver is Initialized
+ 2021-11-23 12:58:52,212  INFO [main] Webdriver:43 - URL is Opened
+ 2021-11-23 12:59:12,587  INFO [main] Webdriver:69 - The product type is searched
+ 2021-11-23 12:59:15,929  INFO [main] Webdriver:81 - The product is clicked
+ 2021-11-23 12:59:16,568  INFO [main] Webdriver:88 - Product has been Wishlisted
+ 2021-11-23 12:59:19,701  INFO [main] Webdriver:99 - Frequently bought item is selected
+ 2021-11-23 12:59:23,403  INFO [main] Webdriver:102 - And added to cart
+ 2021-11-23 12:59:39,674  INFO [main] Webdriver:182 - Product is present over there in WishList
+ 2021-11-23 13:24:59,340  INFO [main] Webdriver:36 - Driver is Initialized
+ 2021-11-23 13:25:13,414  INFO [main] Webdriver:43 - URL is Opened
+ 2021-11-23 13:25:36,686  INFO [main] Webdriver:69 - The product type is searched
+ 2021-11-23 13:25:40,808  INFO [main] Webdriver:81 - The product is clicked
+ 2021-11-23 13:25:41,371  INFO [main] Webdriver:88 - Product has been Wishlisted
+ 2021-11-23 13:25:44,495  INFO [main] Webdriver:99 - Frequently bought item is selected
+ 2021-11-23 13:25:48,813  INFO [main] Webdriver:102 - And added to cart
+ 2021-11-23 13:26:07,295  INFO [main] Webdriver:175 - Product is present over there in WishList
+ 2021-11-23 15:43:40,372  INFO [main] Webdriver:37 - Driver is Initialized
+ 2021-11-23 15:43:44,363  INFO [main] Webdriver:44 - URL is Opened
+ 2021-11-23 15:44:13,085  INFO [main] Webdriver:70 - The product type is searched
+ 2021-11-23 15:44:17,334  INFO [main] Webdriver:82 - The product is clicked
+ 2021-11-23 15:44:17,663  INFO [main] Webdriver:89 - Product has been Wishlisted
+ 2021-11-23 15:44:20,730  INFO [main] Webdriver:100 - Frequently bought item is selected
+ 2021-11-23 15:44:23,079  INFO [main] Webdriver:103 - And added to cart
+ 2021-11-23 15:49:05,438  INFO [main] Webdriver:37 - Driver is Initialized
+ 2021-11-23 15:49:11,195  INFO [main] Webdriver:44 - URL is Opened
+ 2021-11-23 15:49:59,463  INFO [main] Webdriver:70 - The product type is searched
+ 2021-11-23 15:50:02,139  INFO [main] Webdriver:82 - The product is clicked
+ 2021-11-23 15:50:02,434  INFO [main] Webdriver:89 - Product has been Wishlisted
+ 2021-11-23 15:50:05,539  INFO [main] Webdriver:100 - Frequently bought item is selected
+ 2021-11-23 15:50:08,388  INFO [main] Webdriver:103 - And added to cart
+ 2021-11-23 15:58:09,726  INFO [main] Webdriver:37 - Driver is Initialized
+ 2021-11-23 15:58:13,553  INFO [main] Webdriver:44 - URL is Opened
+ 2021-11-23 15:58:42,530  INFO [main] Webdriver:70 - The product type is searched
+ 2021-11-23 15:58:44,916  INFO [main] Webdriver:82 - The product is clicked
+ 2021-11-23 15:58:45,253  INFO [main] Webdriver:89 - Product has been Wishlisted
+ 2021-11-23 15:58:48,316  INFO [main] Webdriver:100 - Frequently bought item is selected
+ 2021-11-23 15:58:50,655  INFO [main] Webdriver:103 - And added to cart
+ 2021-11-23 15:59:34,353  INFO [main] Webdriver:37 - Driver is Initialized
+ 2021-11-23 15:59:37,283  INFO [main] Webdriver:44 - URL is Opened
+ 2021-11-23 16:00:06,475  INFO [main] Webdriver:70 - The product type is searched
+ 2021-11-23 16:00:08,763  INFO [main] Webdriver:82 - The product is clicked
+ 2021-11-23 16:00:09,095  INFO [main] Webdriver:89 - Product has been Wishlisted
+ 2021-11-23 16:00:12,162  INFO [main] Webdriver:100 - Frequently bought item is selected
+ 2021-11-23 16:00:15,597  INFO [main] Webdriver:103 - And added to cart
+ 2021-11-23 16:15:10,393  INFO [main] Webdriver:37 - Driver is Initialized
+ 2021-11-23 16:15:19,337  INFO [main] Webdriver:44 - URL is Opened
+ 2021-11-23 16:15:47,590  INFO [main] Webdriver:70 - The product type is searched
+ 2021-11-23 16:15:49,990  INFO [main] Webdriver:82 - The product is clicked
+ 2021-11-23 16:15:55,063  INFO [main] Webdriver:90 - Product has been Wishlisted
+ 2021-11-23 16:15:58,224  INFO [main] Webdriver:101 - Frequently bought item is selected
+ 2021-11-23 16:16:02,569  INFO [main] Webdriver:105 - And added to cart
+ 2021-11-23 16:16:40,567  INFO [main] Webdriver:169 - Product is present over there in WishList
+ 2021-11-23 16:23:46,266  INFO [main] Webdriver:37 - Driver is Initialized
+ 2021-11-23 16:23:49,267  INFO [main] Webdriver:44 - URL is Opened
+ 2021-11-23 16:24:18,356  INFO [main] Webdriver:70 - The product type is searched
+ 2021-11-23 16:24:20,375  INFO [main] Webdriver:82 - The product is clicked
+ 2021-11-23 16:24:25,447  INFO [main] Webdriver:90 - Product has been Wishlisted
+ 2021-11-23 16:24:28,504  INFO [main] Webdriver:101 - Frequently bought item is selected
+ 2021-11-23 16:24:33,090  INFO [main] Webdriver:105 - And added to cart
+ 2021-11-23 16:24:42,916  INFO [main] Webdriver:143 - Returned to the Cart
+ 2021-11-23 16:25:44,962  INFO [main] Webdriver:37 - Driver is Initialized
+ 2021-11-23 16:25:47,906  INFO [main] Webdriver:44 - URL is Opened
+ 2021-11-23 16:26:18,671  INFO [main] Webdriver:70 - The product type is searched
+ 2021-11-23 16:26:20,971  INFO [main] Webdriver:82 - The product is clicked
+ 2021-11-23 16:26:26,059  INFO [main] Webdriver:90 - Product has been Wishlisted
+ 2021-11-23 16:26:29,130  INFO [main] Webdriver:101 - Frequently bought item is selected
+ 2021-11-23 16:26:33,444  INFO [main] Webdriver:105 - And added to cart
+ 2021-11-23 16:26:43,496  INFO [main] Webdriver:143 - Returned to the Cart
+ 2021-11-23 16:26:55,780  INFO [main] Webdriver:161 - Product is present in WishList
+ 2021-11-23 16:35:41,720  INFO [main] Webdriver:37 - Driver is Initialized
+ 2021-11-23 16:35:53,898  INFO [main] Webdriver:174 - Driver is closed
+ 2021-11-23 16:37:57,466  INFO [main] Webdriver:37 - Driver is Initialized
+ 2021-11-23 16:38:01,012  INFO [main] Webdriver:44 - URL is Opened
+ 2021-11-23 16:38:15,291  INFO [main] Webdriver:61 - Signed In
+ 2021-11-23 16:38:22,017  INFO [main] Webdriver:61 - Signed In
+ 2021-11-23 16:38:28,915  INFO [main] Webdriver:61 - Signed In
+ 2021-11-23 16:38:30,930  INFO [main] Webdriver:71 - The product is typed in searched
+ 2021-11-23 16:38:34,155  INFO [main] Webdriver:83 - The product is clicked
+ 2021-11-23 16:38:39,674  INFO [main] Webdriver:91 - Product has been Wishlisted
+ 2021-11-23 16:38:43,118  INFO [main] Webdriver:102 - Frequently bought item is selected
+ 2021-11-23 16:38:47,422  INFO [main] Webdriver:106 - And added to cart
+ 2021-11-23 16:38:50,829  INFO [main] Webdriver:132 - Review about product has been submitted
+ 2021-11-23 16:38:58,382  INFO [main] Webdriver:145 - Returned to the Cart
+ 2021-11-23 16:39:11,509  INFO [main] Webdriver:163 - Product is present in WishList
+ 2021-11-23 16:39:11,691  INFO [main] Webdriver:174 - Driver is closed
+ 2021-11-23 17:16:36,440  INFO [main] Webdriver:37 - Driver is Initialized
+ 2021-11-23 17:16:39,810  INFO [main] Webdriver:44 - URL is Opened
+ 2021-11-23 17:16:54,067  INFO [main] Webdriver:57 - Signed In
+ 2021-11-23 17:17:00,604  INFO [main] Webdriver:57 - Signed In
+ 2021-11-23 17:17:07,281  INFO [main] Webdriver:57 - Signed In
+ 2021-11-23 17:17:10,174  INFO [main] Webdriver:67 - The product is typed in searched
+ 2021-11-23 17:18:08,463  INFO [main] Webdriver:37 - Driver is Initialized
+ 2021-11-23 17:18:11,408  INFO [main] Webdriver:44 - URL is Opened
+ 2021-11-23 17:18:22,280  INFO [main] Webdriver:204 - Driver is closed
+ 2021-11-23 17:18:40,597  INFO [main] Webdriver:67 - The product is typed in searched
+ 2021-11-23 17:19:46,108  INFO [main] Webdriver:204 - Driver is closed
+ 2021-11-23 17:20:41,177  INFO [main] Webdriver:37 - Driver is Initialized
+ 2021-11-23 17:20:50,149  INFO [main] Webdriver:44 - URL is Opened
+ 2021-11-23 17:21:20,871  INFO [main] Webdriver:67 - The product is typed in searched
+ 2021-11-23 17:22:32,533  INFO [main] Webdriver:204 - Driver is closed
+ 2021-11-23 17:27:36,356  INFO [main] Webdriver:37 - Driver is Initialized
+ 2021-11-23 17:27:39,428  INFO [main] Webdriver:44 - URL is Opened
+ 2021-11-23 17:28:08,845  INFO [main] Webdriver:67 - The product is typed in searched
+ 2021-11-23 17:28:11,075  INFO [main] Webdriver:79 - The product is clicked
+ 2021-11-23 17:28:26,201  INFO [main] Webdriver:98 - Frequently bought item is selected
+ 2021-11-23 17:28:39,608  INFO [main] Webdriver:128 - Review about product has been submitted
+ 2021-11-23 17:29:00,791  INFO [main] Webdriver:204 - Driver is closed
+ 2021-11-23 17:30:34,901  INFO [main] Webdriver:35 - Driver is Initialized
+ 2021-11-23 17:30:38,007  INFO [main] Webdriver:42 - URL is Opened
+ 2021-11-23 17:30:51,829  INFO [main] Webdriver:55 - Signed In
+ 2021-11-23 17:30:58,371  INFO [main] Webdriver:55 - Signed In
+ 2021-11-23 17:31:04,926  INFO [main] Webdriver:55 - Signed In
+ 2021-11-23 17:31:07,321  INFO [main] Webdriver:65 - The product is typed in searched
+ 2021-11-23 17:31:09,415  INFO [main] Webdriver:77 - The product is clicked
+ 2021-11-23 17:31:28,383  INFO [main] Webdriver:168 - Driver is closed
+ 2021-11-23 17:31:51,937  INFO [main] Webdriver:35 - Driver is Initialized
+ 2021-11-23 17:31:55,740  INFO [main] Webdriver:42 - URL is Opened
+ 2021-11-23 17:32:09,563  INFO [main] Webdriver:55 - Signed In
+ 2021-11-23 17:32:16,581  INFO [main] Webdriver:55 - Signed In
+ 2021-11-23 17:32:23,068  INFO [main] Webdriver:55 - Signed In
+ 2021-11-23 17:32:25,713  INFO [main] Webdriver:65 - The product is typed in searched
+ 2021-11-23 17:32:27,987  INFO [main] Webdriver:77 - The product is clicked
+ 2021-11-23 17:32:43,123  INFO [main] Webdriver:96 - Frequently bought item is selected
+ 2021-11-23 17:32:56,526  INFO [main] Webdriver:126 - Review about product has been submitted
+ 2021-11-23 17:38:24,561  INFO [main] Webdriver:35 - Driver is Initialized
+ 2021-11-23 17:38:27,677  INFO [main] Webdriver:42 - URL is Opened
+ 2021-11-23 17:38:42,053  INFO [main] Webdriver:55 - Signed In
+ 2021-11-23 17:38:48,539  INFO [main] Webdriver:55 - Signed In
+ 2021-11-23 17:38:55,208  INFO [main] Webdriver:55 - Signed In
+ 2021-11-23 17:38:57,972  INFO [main] Webdriver:65 - The product is typed in searched
+ 2021-11-23 17:39:00,180  INFO [main] Webdriver:77 - The product is clicked
+ 2021-11-23 17:39:05,399  INFO [main] Webdriver:85 - Product has been Wishlisted
+ 2021-11-23 17:39:08,489  INFO [main] Webdriver:96 - Frequently bought item is selected
+ 2021-11-23 17:39:13,719  INFO [main] Webdriver:100 - And added to cart
+ 2021-11-23 17:39:16,675  INFO [main] Webdriver:126 - Review about product has been submitted
+ 2021-11-23 17:39:24,076  INFO [main] Webdriver:139 - Returned to the Cart
+ 2021-11-23 17:39:45,823  INFO [main] Webdriver:157 - Product is present in WishList
+ 2021-11-23 22:10:58,865  INFO [main] Webdriver:35 - Driver is Initialized
+ 2021-11-23 22:11:02,093  INFO [main] Webdriver:42 - URL is Opened
+ 2021-11-23 22:11:16,878  INFO [main] Webdriver:55 - Signed In
+ 2021-11-23 22:11:23,511  INFO [main] Webdriver:55 - Signed In
+ 2021-11-23 22:11:30,333  INFO [main] Webdriver:55 - Signed In
+ 2021-11-23 22:11:33,672  INFO [main] Webdriver:65 - The product is typed in searched
+ 2021-11-23 22:11:36,045  INFO [main] Webdriver:77 - The product is clicked
+ 2021-11-23 22:11:41,572  INFO [main] Webdriver:85 - Product has been Wishlisted
+ 2021-11-23 22:11:45,093  INFO [main] Webdriver:96 - Frequently bought item is selected
+ 2021-11-23 22:11:49,922  INFO [main] Webdriver:100 - And added to cart
+ 2021-11-23 22:11:53,198  INFO [main] Webdriver:126 - Review about product has been submitted
+ 2021-11-23 22:12:02,023  INFO [main] Webdriver:139 - Returned to the Cart
+ 2021-11-23 22:12:14,799  INFO [main] Webdriver:157 - Product is present in WishList
+ 2021-11-23 22:12:14,948  INFO [main] Webdriver:168 - Driver is closed
+ 2021-11-23 22:15:39,982  INFO [main] Webdriver:35 - Driver is Initialized
+ 2021-11-23 22:15:43,411  INFO [main] Webdriver:42 - URL is Opened
+ 2021-11-23 22:15:56,584  INFO [main] Webdriver:56 - Signed In
+ 2021-11-23 22:16:04,735  INFO [main] Webdriver:56 - Signed In
+ 2021-11-23 22:16:12,574  INFO [main] Webdriver:56 - Signed In
+ 2021-11-23 22:16:17,090  INFO [main] Webdriver:67 - The product is typed in searched
+ 2021-11-23 22:16:19,756  INFO [main] Webdriver:79 - The product is clicked
+ 2021-11-23 22:16:25,289  INFO [main] Webdriver:87 - Product has been Wishlisted
+ 2021-11-23 22:16:30,735  INFO [main] Webdriver:99 - Frequently bought item is selected
+ 2021-11-23 22:16:37,226  INFO [main] Webdriver:103 - And added to cart
+ 2021-11-23 22:16:54,506  INFO [main] Webdriver:136 - Review about product has been submitted
+ 2021-11-23 22:17:07,795  INFO [main] Webdriver:152 - Returned to the Cart
+ 2021-11-23 22:17:27,036  INFO [main] Webdriver:170 - Product is present in WishList
+ 2021-11-23 22:17:32,185  INFO [main] Webdriver:181 - Driver is closed
+ 2021-11-24 08:05:24,525  INFO [main] Webdriver:35 - Driver is Initialized
+ 2021-11-24 08:05:27,051  INFO [main] Webdriver:42 - URL is Opened
+ 2021-11-24 08:05:40,595  INFO [main] Webdriver:56 - Signed In
+ 2021-11-24 08:05:48,354  INFO [main] Webdriver:56 - Signed In
+ 2021-11-24 08:05:56,044  INFO [main] Webdriver:56 - Signed In
+ 2021-11-24 08:06:00,217  INFO [main] Webdriver:67 - The product is typed in searched
+ 2021-11-24 08:06:02,944  INFO [main] Webdriver:79 - The product is clicked
+ 2021-11-24 08:06:08,472  INFO [main] Webdriver:87 - Product has been Wishlisted
+ 2021-11-24 08:06:14,035  INFO [main] Webdriver:99 - Frequently bought item is selected
+ 2021-11-24 08:06:18,590  INFO [main] Webdriver:103 - And added to cart
+ 2021-11-24 08:06:35,888  INFO [main] Webdriver:136 - Review about product has been submitted
+ 2021-11-24 08:06:49,161  INFO [main] Webdriver:152 - Returned to the Cart
+ 2021-11-24 08:07:01,605  INFO [main] Webdriver:170 - Product is present in WishList
+ 2021-11-24 08:07:06,765  INFO [main] Webdriver:181 - Driver is closed
+ 2021-11-24 09:46:22,872  INFO [main] Webdriver:35 - Driver is Initialized
+ 2021-11-24 09:46:25,562  INFO [main] Webdriver:42 - URL is Opened
+ 2021-11-24 09:46:38,866  INFO [main] Webdriver:56 - Signed In
+ 2021-11-24 09:46:47,399  INFO [main] Webdriver:56 - Signed In
+ 2021-11-24 09:46:55,047  INFO [main] Webdriver:56 - Signed In
+ 2021-11-24 09:46:59,994  INFO [main] Webdriver:67 - The product is typed in searched
+ 2021-11-24 09:47:02,526  INFO [main] Webdriver:79 - The product is clicked
+ 2021-11-24 09:47:08,076  INFO [main] Webdriver:87 - Product has been Wishlisted
+ 2021-11-24 09:47:13,684  INFO [main] Webdriver:99 - Frequently bought item is selected
+ 2021-11-24 09:47:18,269  INFO [main] Webdriver:103 - And added to cart
+ 2021-11-24 09:47:35,660  INFO [main] Webdriver:136 - Review about product has been submitted
+ 2021-11-24 09:47:49,055  INFO [main] Webdriver:152 - Returned to the Cart
+ 2021-11-24 09:48:01,996  INFO [main] Webdriver:170 - Product is present in WishList
+ 2021-11-24 09:48:07,170  INFO [main] Webdriver:181 - Driver is closed
+ 
